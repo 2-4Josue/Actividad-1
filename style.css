@@ -134,20 +134,27 @@ header {
   list-style-position: inside;
   padding: 0;
   text-align: center;
+  color: rgb(202, 165, 225);
 }
 
 .textopasatiempos4 ul {
   list-style-position: inside;
   padding: 0;
   text-align: center;
+  color: rgb(202, 165, 225);
 }
 
 .TP4 {
   list-style-position: inside;
   padding: 0;
   text-align: center;
+  color: rgb(176, 96, 222);
 }
 
-
+.footer {
+text-align: left;
+color: aliceblue;
+padding-top: 10%;
+}
 
 
